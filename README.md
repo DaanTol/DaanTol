@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daan Tol</h1>
 <h3 align="center">An enthusiastic IT student from the Netherlands specializing in back-end development</h3>
 
-- 🔭 I’m currently working on [4.3 - 4.4 Cloud Minor]
+- 🔭 I’m currently working on [4.1 - 4.2 Cloud Minor]
 
 - 📫 How to reach me **datol@icloud.com**
 
